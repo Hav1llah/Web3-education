@@ -11,5 +11,3 @@ Welcome to **Web3 Education** — a curated collection of resources, guides, and
 
 🎯 Goal  
 To make Web3 simple, practical, and accessible for everyone.  
-
-License: MIT
